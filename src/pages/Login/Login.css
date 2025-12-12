@@ -84,6 +84,11 @@
     color: #fff;
     font-weight: 500;
     cursor: pointer;
+    text-decoration: underline;
+}
+
+.form-switch p {
+    padding: 10px;;
 }
 
 .login-spinner {
